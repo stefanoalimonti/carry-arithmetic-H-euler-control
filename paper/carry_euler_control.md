@@ -286,14 +286,14 @@ To verify that the results are not artifacts of finite L, we repeated the experi
 
 3. H. L. Montgomery, "The pair correlation of zeros of the zeta function," *Analytic Number Theory*, Proc. Sympos. Pure Math., vol. 24, pp. 181–193, 1973.
 
-4. [P1] S. Alimonti, "π from Pure Arithmetic: A Spectral Phase Transition in the Binary Carry Bridge," companion paper, 2026.
+4. [P1] S. Alimonti, "π from Pure Arithmetic: A Spectral Phase Transition in the Binary Carry Bridge," companion paper, 2026. doi:10.5281/zenodo.18895611
 
-5. [P2] S. Alimonti, "The Sector Ratio in Binary Multiplication: From Markov Failure to Transcendence," companion paper, 2026.
+5. [P2] S. Alimonti, "The Sector Ratio in Binary Multiplication: From Markov Failure to Transcendence," companion paper, 2026. doi:10.5281/zenodo.18895615
 
-6. [C] S. Alimonti, "Eigenvalue Statistics of Carry Companion Matrices: A Markov-Driven GOE↔GUE Transition in Sparse Non-Hermitian Ensembles," companion paper, 2026.
+6. [C] S. Alimonti, "Eigenvalue Statistics of Carry Companion Matrices: A Markov-Driven GOE↔GUE Transition in Sparse Non-Hermitian Ensembles," companion paper, 2026. doi:10.5281/zenodo.18895595
 
-7. [D] S. Alimonti, "The Carry-Zero Entropy Bound: Structural Limits of Bitwise Factorization," companion paper, 2026.
+7. [D] S. Alimonti, "The Carry-Zero Entropy Bound: Structural Limits of Bitwise Factorization," companion paper, 2026. doi:10.5281/zenodo.18895599
 
-8. [B] S. Alimonti, "Carry Polynomials and the Euler Product: An Approximation Framework," companion paper, 2026.
+8. [B] S. Alimonti, "Carry Polynomials and the Euler Product: An Approximation Framework," companion paper, 2026. doi:10.5281/zenodo.18895597
 
-9. [A] S. Alimonti, "Spectral Theory of Carries in Positional Multiplication," companion paper, 2026.
+9. [A] S. Alimonti, "Spectral Theory of Carries in Positional Multiplication," companion paper, 2026. doi:10.5281/zenodo.18895593
