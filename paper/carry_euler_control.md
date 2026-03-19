@@ -194,6 +194,8 @@ Because E has no zeros and varies slowly, the minima of Z_carry are determined e
 
 A stronger statement: the carry correction **cannot** create zeros of Z_carry that are not zeros of Z_Euler. Since R(l, s) is an averaged absolute value of a determinant, R(l, s) ≥ 0 for all s. Therefore ∏R(l, s) ≥ 0, and Z_carry(s) = 0 only if Z_Euler(s) = 0. The carry product inherits zeros from the Euler product and cannot produce new ones.
 
+This zero-creation impossibility extends to the canonical $\chi_4$-weighted carry channel $M_{\chi}(K, s)$ of [L]: exhaustive computation confirms no zeros of $|M_{\chi}(K, s)|$ in the strip $\operatorname{Re}(s) \in [0.3, 0.7]$, $\operatorname{Im}(s) \in [0, 15]$ for $K \in \{19, 20, 21, 999\}$ [L, §5.1]. The topological stability of the minimum positions from K = 21 to K = 999 ([L, §5.5]) confirms that this zero-free property is not an artifact of finite truncation.
+
 ### 4.4 The Missing Functional Equation
 
 A deeper reason the carry product cannot be a true L-function: it lacks a functional equation. The Riemann zeta function satisfies
@@ -297,3 +299,5 @@ To verify that the results are not artifacts of finite L, we repeated the experi
 8. [B] S. Alimonti, "Carry Polynomials and the Euler Product: An Approximation Framework," companion paper, 2026. doi:10.5281/zenodo.18895597
 
 9. [A] S. Alimonti, "Spectral Theory of Carries in Positional Multiplication," companion paper, 2026. doi:10.5281/zenodo.18895593
+
+10. [L] S. Alimonti, "The Carry–Dirichlet Bridge: Stopping-Time Series and L²(s,χ₄)," companion paper, 2026. doi:10.5281/zenodo.18895609
